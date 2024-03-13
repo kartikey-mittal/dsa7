@@ -77,7 +77,8 @@ Enter the realm of algorithmic mastery!
 
 ## Meet the Team 👥
 We have a vibrant team of innovators and thinkers at ISTE SRM NCR! Get to know each member by visiting our team page.
-[![Team](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Meet%20Our%20Team&up_color=blue&up_message=online&url=https%3A%2F%2Fwww.istesr
+
+[![Team](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Meet%20Our%20Team&up_color=blue&up_message=online&url=https://www.istesrmncr.live/iste_team.html)
 
 
 
