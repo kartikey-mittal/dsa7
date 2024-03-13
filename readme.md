@@ -1,4 +1,4 @@
-# ISTE Technical Club 🚀
+# ISTE Technical Club 🚀  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="25" height="25" />
 
 Welcome to the ISTE Technical Club! 🚀
 
